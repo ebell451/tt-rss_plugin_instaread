@@ -11,7 +11,7 @@ class instaread extends Plugin {
 	}
 
 	function about() {
-		return array(1.0,
+		return array(1.5,
 			"This will open a text only view via Instapaper.",
 			"ebell451");
 	}
