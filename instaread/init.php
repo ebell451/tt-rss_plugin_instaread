@@ -48,7 +48,7 @@ class instaread extends Plugin {
 	}
 
 	function api_version () {
-		return2;
+		return 2;
 	}
 
 }
